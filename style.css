@@ -2,19 +2,19 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #A2B06D;
+  background-color: #f4f4f4;
   color: #333;
 }
 
 header {
-  background-color: #8dbd79;
+  background-color: #DDE5D0;
   color: #fff;
   padding: 1rem 2rem;
   text-align: center;
 }
 
 nav {
-  background-color: #B3C89E;
+  background-color: #B2AC88;
   padding: 1rem 2rem;
   text-align: center;
 }
